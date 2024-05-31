@@ -1,0 +1,10 @@
+{
+	"id": "toggle-vim-mode",
+	"name": "Toggle Vim mode",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Toggle Vim mode using command or ribbon action",
+	"author": "Yoni Asulin",
+	"authorUrl": "https://github.com/YoniA",
+	"isDesktopOnly": false
+}
